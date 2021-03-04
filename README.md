@@ -1,5 +1,6 @@
 # bread
 A python based esoteric language inspired by the most godly food
+
 ![bread](https://breadhub.uk/static/images/ico-full.png)
 
 # WARNING!
@@ -76,7 +77,7 @@ numnums(gimme())
 | min | smolbread
 | sum | lotsabread
 | all | allbread
-| len | allbread
+| len | longbread
 | range | slicesof
 | round | crusts
 | slice | chop
