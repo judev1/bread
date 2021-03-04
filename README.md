@@ -7,7 +7,7 @@ A python based esoteric language inspired by the most godly food
  - The breadinstaller is only installable on windows, however, the compiler and interpreter are written in python and so can be used anywhere with a bit of modification
 
 # How to install/use
- - Download the [breadinstaller](), but make sure not to download the entire repo
+ - Download the [breadinstaller](https://github.com/judev1/bread/blob/main/breadinstaller.exe?raw=true), but make sure not to download the entire repo
  - Run the breadinstaller and follow the setup wizard, bread has now been installed onto your system
  - You can run your bread code as simply as typing into cmd: `bread run example.brr` (all bread files **must** end with .brr)
  - You can also compile your bread code into python, or vice versa with: `bread compile example.brr` or `bread compile example.py`
