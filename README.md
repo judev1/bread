@@ -28,7 +28,7 @@ numnums(gimme())
 | [PYTHON KEYWORDS](https://www.programiz.com/python-programming/keyword-list) | BREAD KEYWORDS
 | - | -
 | class | burmger
-| def | sandwhich8
+| def | sandwhich
 | if | tasty
 | elif | tastier
 | else | tastiest
